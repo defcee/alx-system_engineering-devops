@@ -1,2 +1,4 @@
 #!/bin/bash
-def hex2dec(dec_number)
+$ printf '%x\n' 26
+
+1a
